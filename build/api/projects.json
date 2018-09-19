@@ -1,0 +1,19 @@
+
+{
+    "projects":
+    [
+        {
+            "title":"Personal Projects - Data",
+            "links":[
+                {
+                "link":"http://webshare.me",
+                "text":"Webshare"
+                },
+                {
+                "link":"http://dublinbus.owenmerry.com",
+                "text":"Dublin bus app"
+                }
+            ]
+        }
+    ]
+}
